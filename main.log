@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  20 DEC 2021 20:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  26 JAN 2022 02:04
 entering extended mode
 **./main.tex
 (main.tex
@@ -1307,36 +1307,39 @@ and I'll forget about whatever was undefined.
 {C:/Users/Sayeed Ahmad/AppData/Local/MiKTeX/pdftex/config/pdftex.map}])
 (main.aux
 
-LaTeX Warning: Label `simdat' multiply defined.
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
 
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 89.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 8
-9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 94.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 9
+4.
  (C:\MikTek\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    ... okay on input line 94.
 
 (C:\MikTek\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1359,7 +1362,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\MikTek\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 89.
+Package hyperref Info: Link coloring OFF on input line 94.
 
 (C:\MikTek\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1372,9 +1375,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count343
 )
-LaTeX Info: Redefining \ref on input line 89.
-LaTeX Info: Redefining \pageref on input line 89.
-LaTeX Info: Redefining \nameref on input line 89.
+LaTeX Info: Redefining \ref on input line 94.
+LaTeX Info: Redefining \pageref on input line 94.
+LaTeX Info: Redefining \nameref on input line 94.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -1391,17 +1394,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.92 
+l.97 
      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 92.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 97.
 
 (C:\MikTek\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 92.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
 
  (C:\MikTek\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1409,58 +1412,46 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 LaTeX Warning: No \author given.
 
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 98.
+
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.93 \tableofcontents
+l.98 \tableofcontents
                      
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
-(main.tocpdfTeX warning (ext4): destination with the same identifier (name{page
-.1}) has been already used, duplicate ignored
+(main.toc
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <12> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 6.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.23 ...re $T = 60^\circ $C}}{11}{subsection.10.3}
+l.23 ...re $T = 30^\circ $C}}{12}{subsection.10.3}
                                                   % [1])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
  [2]
-(Sections/Abstract.tex)
-Overfull \hbox (14.12811pt too wide) in paragraph at lines 1--102
-[]\OT1/cmr/m/it/10.95 We will discuss the effects of change in the magnitude of
- \OT1/cmr/bx/it/10.95 temperature
+(Sections/Abstract.tex
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 1.
+)
+Overfull \hbox (1.23878pt too wide) in paragraph at lines 1--107
+[]\OT1/cmss/m/sl/10.95 We will discuss the effects of change in the magnitude o
+f \OT1/cmss/bx/it/10.95 temperature
  []
 
-(Sections/Introduction.tex
-Overfull \hbox (8.57782pt too wide) in paragraph at lines 1--2
-\OT1/cmr/m/it/12 the \OT1/cmr/bx/it/12 mechanics of fluid flow\OT1/cmr/m/it/12 
-, its \OT1/cmr/bx/it/12 complex dynamics \OT1/cmr/m/it/12 and its \OT1/cmr/bx/i
-t/12 excruciating
- []
+(Sections/Introduction.tex) (Sections/Aim.tex)
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <14.4> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 123.
 
-
-Overfull \hbox (2.21396pt too wide) in paragraph at lines 1--2
-\OT1/cmr/m/it/12 to carry out research and collect data both \OT1/cmr/bx/it/12 
-quantitatively \OT1/cmr/m/it/12 and \OT1/cmr/bx/it/12 qualitatively\OT1/cmr/m/i
-t/12 . 
- []
-
-) (Sections/Aim.tex)
-Overfull \hbox (10.49489pt too wide) in paragraph at lines 1--113
-\OT1/cmr/m/it/12 the value the \OT1/cmr/bx/it/12 inconsistencies \OT1/cmr/m/it/
-12 in \OT1/cmr/bx/it/12 accuracy \OT1/cmr/m/it/12 of the \OT1/cmr/bx/it/12 math
-ematically modeled
- []
-
-(Sections/Hypothesis.tex
-Overfull \hbox (23.07909pt too wide) in paragraph at lines 2--3
-\OT1/cmr/m/it/12 to the the change in \OT1/cmr/bx/it/12 temperature\OT1/cmr/m/i
-t/12 , which means that with increase in temperature,
- []
-
-) (Sections/Background Research.tex [3
+ (Sections/Hypothesis.tex)
+(Sections/Background Research.tex [3
 
 ]
 
@@ -1468,54 +1459,55 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 84.
 
 
-Overfull \hbox (31.68689pt too wide) in paragraph at lines 90--91
-\OT1/cmr/bx/it/12 coefficient \OT1/cmr/m/it/12 in the dimension of the length m
-easurement and T is the \OT1/cmr/bx/it/12 temperature\OT1/cmr/m/it/12 . 
+Overfull \hbox (4.58481pt too wide) in paragraph at lines 90--91
+[]\OT1/cmss/m/sl/12 Where, L is the \OT1/cmss/bx/it/12 length measurement\OT1/c
+mss/m/sl/12 , $\OML/cmm/m/it/12 []$ \OT1/cmss/m/sl/12 is the \OT1/cmss/bx/it/1
+2 thermal expansion coefficient
  []
 
 [4] [5]
-Overfull \hbox (5.34367pt too wide) in paragraph at lines 197--198
-\OT1/cmr/m/it/12 script format, that would compute and yield solutions for nece
-ssary simulations
+Overfull \hbox (4.30678pt too wide) in paragraph at lines 153--154
+\OT1/cmss/bx/it/12 density \OT1/cmss/m/sl/12 of a particular substance, $\OML/c
+mm/m/it/12 $ \OT1/cmss/m/sl/12 is the \OT1/cmss/bx/it/12 volumetric/cubic ther
+mal expansion
  []
 
-) (Sections/Materials Required.tex) (Sections/Variables.tex [6]
-Overfull \hbox (4.62834pt too wide) in paragraph at lines 26--41
- [][] 
+) (Sections/Materials Required.tex
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
+2.
+ (C:\MikTek\tex/latex/base\ts1cmss.fd
+File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+[6]) (Sections/Variables.tex
+Overfull \hbox (4.32077pt too wide) in paragraph at lines 22--23
+\OT1/cmss/bx/it/12 Note\OT1/cmss/m/sl/12 : In theory, the radius of the spheric
+al mass and the flow velocity incorporated
  []
 
 ) (Sections/Procedure.tex
-<Images//Flow Pattern.svg.png, id=199, 601.24625pt x 417.56pt>
+<Images//Flow Pattern.svg.png, id=225, 601.24625pt x 417.56pt>
 File: Images//Flow Pattern.svg.png Graphic file (type png)
 <use Images//Flow Pattern.svg.png>
 Package pdftex.def Info: Images//Flow Pattern.svg.png  used on input line 3.
 (pdftex.def)             Requested size: 284.52756pt x 197.60396pt.
- [7]
-
-LaTeX Warning: Reference `exp1' on page 8 undefined on input line 9.
-
-
-LaTeX Warning: Reference `exp1' on page 8 undefined on input line 13.
-
-) (Sections/Equation.tex [8 <./Images//Flow Pattern.svg.png>]
-Overfull \hbox (4.37593pt too wide) in paragraph at lines 20--21
-[]\OT1/cmr/m/it/12 When further reducing the variables to constants the followi
-ng equation reduces
+ [7]) (Sections/Equation.tex [8 <./Images//Flow Pattern.svg.png>]
+Overfull \hbox (14.70854pt too wide) in paragraph at lines 30--31
+\OT1/cmss/m/sl/12 The \OT1/cmss/bx/it/12 equation used for further investigatio
+n \OT1/cmss/m/sl/12 we shall be using in this investigation
  []
 
 ) (Sections/Data.tex [9]
-
-LaTeX Warning: Reference `' on page 10 undefined on input line 39.
-
-
-LaTeX Warning: Reference `expdat' on page 10 undefined on input line 173.
-
-
-Overfull \hbox (45.93704pt too wide) in paragraph at lines 145--174
+Overfull \hbox (28.64061pt too wide) in paragraph at lines 145--174
  [][] 
  []
 
 [10]) (Sections/Evaluation Mod 1.tex
+Overfull \hbox (15.2639pt too wide) in paragraph at lines 1--2
+\OT1/cmss/m/sl/12 Let $\OML/cmm/m/it/12 F[]$ \OT1/cmss/m/sl/12 be the experimen
+tal values and $\OML/cmm/m/it/12 F[]$ \OT1/cmss/m/sl/12 be the simulation value
+s respectively
+ []
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 7.
@@ -1532,6 +1524,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 7.
 
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <8> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 11.
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <6> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 11.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 13.
@@ -1583,24 +1579,87 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 32.
+(hyperref)                removing `math shift' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 32.
+(hyperref)                removing `superscript' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\circ' on input line 32.
+(hyperref)                removing `\circ' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 32.
+(hyperref)                removing `math shift' on input line 31.
 
 
-Overfull \hbox (21.13474pt too wide) in paragraph at lines 56--57
-[]\OT1/cmr/bx/it/12 Percentage uncertainty \OT1/cmr/m/it/12 in measurement of \
-OT1/cmr/bx/it/12 drag force versus temperature
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\circ' on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 37.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 43.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 43.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\circ' on input line 43.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 43.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\circ' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\circ' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 55.
+
+[12]
+Overfull \hbox (6.98386pt too wide) detected at line 71
+[] \OT1/cmr/m/n/12 = [] = []
  []
 
 ) (Sections/IAGraph.tex (Sections/./FDGraph1.tex
@@ -1653,7 +1712,7 @@ Overfull \hbox (7.23854pt too wide) in paragraph at lines 3--89
 [] 
  []
 
-[12]
+[13]
 \openout3 = `main.auxlock'.
 
 
@@ -1700,19 +1759,9 @@ Overfull \hbox (7.23854pt too wide) in paragraph at lines 92--145
 [][] 
  []
 
-[13]
-Overfull \hbox (9.76541pt too wide) in paragraph at lines 146--147
-\OT1/cmr/m/it/12 created with accordance to a simulation, based accurately on t
-he \OT1/cmr/bx/it/12 mathematical
- []
-
-
-Overfull \hbox (16.1895pt too wide) in paragraph at lines 146--147
-\OT1/cmr/bx/it/12 evidence that the experimental data collected was of least un
-certainty
- []
-
+[14]
 \openout3 = `main.auxlock'.
+
 
 ===== 'mode=convert with system call': Invoking 'pdflatex -halt-on-error -inter
 action=batchmode -jobname "main-figure2" "\def\tikzexternalrealjob{main}\input{
@@ -1757,71 +1806,49 @@ Overfull \hbox (7.23854pt too wide) in paragraph at lines 223--325
 [][] 
  []
 
-[14]) [15]
-Overfull \hbox (14.37611pt too wide) in paragraph at lines 13--14
-\OT1/cmr/m/it/12 investigation as if, the system had to model \OT1/cmr/bx/it/12
- similarly \OT1/cmr/m/it/12 to the inverse exponential,
+[15])
+Overfull \hbox (56.64195pt too wide) in paragraph at lines 5--6
+\OT1/cmss/m/sl/12 are both \OT1/cmss/bx/it/12 accurate \OT1/cmss/m/sl/12 and \O
+T1/cmss/bx/it/12 precise \OT1/cmss/m/sl/12 in relation to that of the \OT1/cmss
+/bx/it/12 literature/theoretical/simulation
  []
 
-) (Sections/Evaluation.tex
-Overfull \hbox (21.13474pt too wide) in paragraph at lines 11--12
-[]\OT1/cmr/bx/it/12 Percentage uncertainty \OT1/cmr/m/it/12 in measurement of \
-OT1/cmr/bx/it/12 drag force versus temperature
- []
-
-) (Sections/Limitations of Study.tex
-Overfull \hbox (10.73053pt too wide) in paragraph at lines 4--5
-[]\OT1/cmr/m/it/12 Restricting the value of temperature domain from $\OT1/cmr/m
-/n/12 10[]$\OT1/cmr/m/it/12 Celsius to $\OT1/cmr/m/n/12 90[]$\OT1/cmr/m/it/12 C
-elsius 
- []
-
-[16]) (Sections/Safety Measures.tex
-Overfull \hbox (1.60086pt too wide) in paragraph at lines 3--4
-\OT1/cmr/m/it/12 The Safety Measures that were taken during the experimentation
- as as follows: 
+[16]
+Overfull \hbox (14.28252pt too wide) in paragraph at lines 11--12
+\OT1/cmss/m/sl/12 that we are to analyze exhibits logarithmic decay over temper
+ature and is \OT1/cmss/bx/it/12 accurately
  []
 
 
-Overfull \hbox (2.46523pt too wide) in paragraph at lines 9--10
-\OT1/cmr/m/it/12 could potentially lead to safety hazards, before initiating ex
-perimentation 
+Overfull \hbox (14.66931pt too wide) in paragraph at lines 13--14
+[]\OT1/cmss/m/sl/12 This \OT1/cmss/bx/it/12 contradicts \OT1/cmss/m/sl/12 the \
+OT1/cmss/bx/it/12 initial hypothesis \OT1/cmss/m/sl/12 laid out prior to beginn
+ing the investigation
  []
 
-
-Overfull \hbox (13.50029pt too wide) in paragraph at lines 10--11
-[]\OT1/cmr/m/it/12 It was made sure the experiment shall not be performed to hi
-ghly flammable
+) (Sections/Evaluation.tex) (Sections/Limitations of Study.tex [17])
+(Sections/Safety Measures.tex) (Sections/Sources of Error.tex
+Overfull \hbox (1.36201pt too wide) in paragraph at lines 4--5
+[]\OT1/cmss/m/sl/12 Raw experimental data presented here in the investigation r
+eport is collected
  []
 
-) (Sections/Sources of Error.tex
-Overfull \hbox (4.65025pt too wide) in paragraph at lines 6--7
-[]\OT1/cmr/m/it/12 Uncertainties that cannot be minimized due to lack of highly
- sophisticated
- []
-
-) (Sections/Conclusion.tex
-Overfull \hbox (2.89673pt too wide) in paragraph at lines 1--2
-\OT1/cmr/m/it/12 conditions as so to completely study the \OT1/cmr/bx/it/12 mot
-ion/dynamics of the laminar
- []
-
-[17]) [18] (Works Cited/Bib.tex
-Underfull \hbox (badness 1715) in paragraph at lines 7--8
-\OT1/cmr/m/it/12 Tool Box\OT1/cmr/m/n/12 , Engineering Tool Box, []$\OT1/cmtt/m
-/n/12 www . engineeringtoolbox . com /
+) (Sections/Conclusion.tex [18]) [19] (Works Cited/Bib.tex
+Underfull \hbox (badness 3354) in paragraph at lines 7--8
+\OT1/cmss/m/sl/12 Tool Box\OT1/cmss/m/n/12 , Engineering Tool Box, []$\OT1/cmtt
+/m/n/12 www . engineeringtoolbox . com /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
 \OT1/cmtt/m/n/12 fluid-[]density-[]temperature-[]pressure-[]d _ 309 . html$[]\O
-T1/cmr/m/n/12 . Accessed 10
+T1/cmss/m/n/12 . Accessed 10
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 11--12
-\OT1/cmr/m/n/12 2014, []$\OT1/cmtt/m/n/12 commons . wikimedia . org / wiki / Fi
-le : Flow _ patterns _ around _
+Underfull \hbox (badness 3019) in paragraph at lines 11--12
+\OT1/cmss/m/n/12 2014, []$\OT1/cmtt/m/n/12 commons . wikimedia . org / wiki / F
+ile : Flow _ patterns _ around _
  []
 
 
@@ -1830,43 +1857,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 n-[]d _
  []
 
-) [19
+) [20
 
-] (main.aux)
+] (Appendix/appdix Mod 1.tex (Appendix/./Raw Experimental Data Mod 1.tex)) [21
 
-LaTeX Warning: There were undefined references.
+] [22] [23] (main.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 145D12A49B3D90C05B09B7B36864DC96;4730.
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: F8FA5ACDF894244FBDEA4977885709F7;6057
+(rerunfilecheck)             After:  6B995CA55E01F692ADC6D30E80F09AB8;6057.
  ) 
 Here is how much of TeX's memory you used:
- 37238 strings out of 478868
- 823875 string characters out of 2865271
- 1402587 words of memory out of 3000000
- 54333 multiletter control sequences out of 15000+600000
- 423829 words of font info for 97 fonts, out of 8000000 for 9000
+ 37308 strings out of 478868
+ 825594 string characters out of 2865271
+ 1402893 words of memory out of 3000000
+ 54372 multiletter control sequences out of 15000+600000
+ 425402 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,18n,89p,1786b,2550s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Sayeed Ahmad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
-00\tcrm1200.pk><C:/MikTek/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb><C:/Mi
-kTek/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MikTek/fonts/type1/public/am
-sfonts/cm/cmbx12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Mi
-kTek/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MikTek/fonts/type1/public/
-amsfonts/cm/cmex10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:
-/MikTek/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/MikTek/fonts/type1/public/
-amsfonts/cm/cmmi8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:
-/MikTek/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/MikTek/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr6.pfb>
-<C:/MikTek/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/MikTek/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C
-:/MikTek/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/MikTek/fonts/type1/publi
-c/amsfonts/cm/cmti12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (20 pages, 367226 bytes).
+00\tcss1200.pk><C:/MikTek/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb><C:/Mi
+kTek/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MikTek/fonts/type1/public/am
+sfonts/cm/cmbx8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/
+MikTek/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/MikTek/fonts/type1/public/
+amsfonts/cm/cmmi12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/
+MikTek/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/MikTek/fonts/type1/public/a
+msfonts/cm/cmmib10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cmextra/cmmib8.pf
+b><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MikTek/fonts/type1/pu
+blic/amsfonts/cm/cmr6.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
+:/MikTek/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/MikTek/fonts/type1/publi
+c/amsfonts/cm/cmssbx10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmssi10.pf
+b><C:/MikTek/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/MikTek/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy8.p
+fb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/MikTek/fonts/type1/
+public/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (24 pages, 386697 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
- 68 named destinations out of 1000 (max. 500000)
- 258 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 465 PDF objects out of 1000 (max. 8388607)
+ 80 named destinations out of 1000 (max. 500000)
+ 298 words of extra memory for PDF output out of 10000 (max. 10000000)
 
