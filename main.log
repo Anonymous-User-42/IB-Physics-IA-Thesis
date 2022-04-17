@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  16 MAR 2022 18:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  24 MAR 2022 15:32
 entering extended mode
 **./main.tex
 (main.tex
@@ -1281,7 +1281,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
-) (Front matter/Title Page v4.tex
+) (Front matter/Title Page v5.tex
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -1801,11 +1801,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  37431 strings out of 478868
  826833 string characters out of 2865271
- 1404427 words of memory out of 3000000
+ 1404350 words of memory out of 3000000
  54469 multiletter control sequences out of 15000+600000
  460977 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,18n,89p,1786b,2761s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,18n,89p,1786b,2731s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/MikTek/fonts/enc/dvips/base/8r.enc}<C:/MikTek/fonts/type1/p
 ublic/amsfonts/cmextra/cmbsy9.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmb
 x12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MikTek/fonts
@@ -1818,7 +1818,7 @@ nts/cm/cmtt12.pfb><C:/MikTek/fonts/type1/urw/symbol/usyr.pfb><C:/MikTek/fonts/t
 ype1/urw/symbol/usyr.pfb><C:/MikTek/fonts/type1/urw/times/utmb8a.pfb><C:/MikTek
 /fonts/type1/urw/times/utmbi8a.pfb><C:/MikTek/fonts/type1/urw/times/utmr8a.pfb>
 <C:/MikTek/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (22 pages, 311291 bytes).
+Output written on main.pdf (22 pages, 311365 bytes).
 PDF statistics:
  377 PDF objects out of 1000 (max. 8388607)
  68 named destinations out of 1000 (max. 500000)
