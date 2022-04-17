@@ -4,28 +4,28 @@
 \contentsline {section}{\numberline {3}\textit {Hypothesis}}{3}{section.3}%
 \contentsline {section}{\numberline {4}\textit {Background Research}}{3}{section.4}%
 \contentsline {subsection}{\numberline {4.1}\textit {Air Drag/Fluid Resistance}}{4}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}\textit {Temperature dependence on density}}{4}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}\textit {Computer Simulation Software}}{5}{subsection.4.3}%
-\contentsline {section}{\numberline {5}\textit {Materials Required}}{5}{section.5}%
-\contentsline {section}{\numberline {6}\textit {Variables}}{6}{section.6}%
-\contentsline {section}{\numberline {7}\textit {Procedure}}{7}{section.7}%
-\contentsline {section}{\numberline {8}\textit {Equations}}{7}{section.8}%
-\contentsline {subsection}{\numberline {8.1}\textit {Equations of Motion}}{7}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}\textit {Fundamental Derived Equation}}{8}{subsection.8.2}%
-\contentsline {section}{\numberline {9}\textit {Data}}{9}{section.9}%
-\contentsline {subsection}{\numberline {9.1}\textit {Simulation Data}}{9}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}\textit {Experimental Data}}{10}{subsection.9.2}%
+\contentsline {subsection}{\numberline {4.2}\textit {Temperature dependence of thermal expansion \\ coefficient}}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}\textit {Temperature dependence of density}}{5}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}\textit {Computer Simulation Software}}{6}{subsection.4.4}%
+\contentsline {section}{\numberline {5}\textit {Materials Required}}{6}{section.5}%
+\contentsline {section}{\numberline {6}\textit {Variables}}{7}{section.6}%
+\contentsline {section}{\numberline {7}\textit {Procedure}}{8}{section.7}%
+\contentsline {section}{\numberline {8}\textit {Equations}}{8}{section.8}%
+\contentsline {subsection}{\numberline {8.1}\textit {Equations of Motion}}{8}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}\textit {Fundamental Derived Equation}}{9}{subsection.8.2}%
+\contentsline {section}{\numberline {9}\textit {Data}}{10}{section.9}%
+\contentsline {subsection}{\numberline {9.1}\textit {Experimental Data}}{10}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}\textit {Simulation Data}}{10}{subsection.9.2}%
 \contentsline {subsection}{\numberline {9.3}\textit {Complete Data}}{11}{subsection.9.3}%
-\contentsline {section}{\numberline {10}\textit {Observations}}{11}{section.10}%
+\contentsline {section}{\numberline {10}\textit {Evaluation}}{11}{section.10}%
 \contentsline {subsection}{\numberline {10.1}\textit {Observation from Case 1 where $T = 20^\circ $C}}{11}{subsection.10.1}%
 \contentsline {subsection}{\numberline {10.2}\textit {Observation from Case 2 where $T = 40^\circ $C}}{11}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}\textit {Observation from Case 3 where $T = 60^\circ $C}}{11}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.3}\textit {Observation from Case 3 where $T = 60^\circ $C}}{12}{subsection.10.3}%
 \contentsline {subsection}{\numberline {10.4}\textit {Observation from Case 4 where $T = 80^\circ $C}}{12}{subsection.10.4}%
 \contentsline {subsection}{\numberline {10.5}\textit {Observation from Case 5 where $T = 100^\circ $C}}{12}{subsection.10.5}%
-\contentsline {section}{\numberline {11}\textit {Analysis}}{12}{section.11}%
-\contentsline {section}{\numberline {12}\textit {Evaluation}}{13}{section.12}%
-\contentsline {section}{\numberline {13}\textit {Limitations of Study}}{13}{section.13}%
-\contentsline {section}{\numberline {14}\textit {Safety Measures}}{14}{section.14}%
-\contentsline {section}{\numberline {15}\textit {Sources of Error}}{14}{section.15}%
-\contentsline {section}{\numberline {16}\textit {Conclusion}}{15}{section.16}%
-\contentsline {section}{\textit {Bibliography}}{16}{section.16}%
+\contentsline {section}{\numberline {11}\textit {Analysis}}{13}{section.11}%
+\contentsline {section}{\numberline {12}\textit {Limitations of Study}}{16}{section.12}%
+\contentsline {section}{\numberline {13}\textit {Safety Measures}}{17}{section.13}%
+\contentsline {section}{\numberline {14}\textit {Sources of Error}}{17}{section.14}%
+\contentsline {section}{\numberline {15}\textit {Conclusion}}{18}{section.15}%
+\contentsline {section}{\textit {Bibliography}}{19}{section.15}%

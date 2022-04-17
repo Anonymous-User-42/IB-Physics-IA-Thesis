@@ -7,28 +7,30 @@
 
 	\textit{Also,}
 		
-		$$\rho = \frac{\rho_{0}}{1 + \beta\cdot\Delta T}$$
+		$$\rho = \rho_{0}\left(1 - \gamma\cdot\Delta T\right)$$
 
 	\textit{Substituting the second equation in the first equation we have,}
 	
-		$$F_D = \frac{1}{2}\left(\frac{\rho_{0}}{1 + \beta\cdot\Delta T}\right)\cdot v^2C_DA$$
+		$$F_D = \frac{1}{2}\rho_{0}v^2C_DA\cdot\left(1 - \gamma\cdot\Delta T\right)$$
 
 	\textit{This equation can be rewritten as,}
 
-		$$F_D = \frac{1}{2}\left(\frac{\rho_{0}}{1 + \beta\cdot(T - T_{0})}\right)\cdot v^2C_DA$$
+		$$F_D = \frac{1}{2}\rho_{0}v^2C_DA\cdot\left(1 - \gamma\cdot\left(T - T_{0}\right)\right)$$
 
 	\textit{When further reducing the variables to constants the following equation reduces to,}
 
-		$$F_D = \frac{1356661}{36752222}\cdot\left(\frac{789}{1 + 0.00109\cdot(T - 298.16)}\right)\cdot 10^2$$
+		$$F_D = 4.61\cdot 10^{-3}\cdot\left(1 - \gamma\cdot T\right)$$
 
-	\textit{\textbf{Note}: The initial density and temperature taken into account is 789 $kg/m^3$ and ${25}^\circ C$ or 298.16 K.}
+	\textit{\textbf{Note}: The initial density and temperature taken into account is 999.83 $kg/m^3$ and ${0}^\circ C$ or 271.16 K.}
+
+	\textit{\textbf{Note}: This equation is derived considering the Celsius unit for temperature difference as the least count for both the units (Celsius and Kelvin) are the same.}
 
 \subsection{\textit{Fundamental Derived Equation}}
 
 	\textit{The \textbf{fundamental derived equation} we shall be using in this investigation are:}
             
    	\begin{equation}
-      	F_D = \frac{1356661}{36752222}\cdot\left(\frac{789}{1 + 0.00109\cdot(T - 298.16)}\right)\cdot 100
+      	F_D = 4.61\cdot 10^{-3}\cdot\left(1 - \gamma_{T}\cdot T\right)
       	\label{eq1}
     	\end{equation}
             

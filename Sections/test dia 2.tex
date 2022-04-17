@@ -1,0 +1,28 @@
+\documentclass{standalone}
+\usepackage{freetikz}
+\begin{document}
+\begin{tikzpicture}
+  \node[dot] (d0) at (2.5, 7) {};
+  \node[morphism, hvflip] (m0) at (2.5, 7) {m0};
+  \draw (NaN, NaN) to[out=NaN, in=NaN] (NaN, NaN);
+  \draw (NaN, NaN) to[out=NaN, in=NaN] (NaN, NaN);
+  \draw (1, 7.5) to[out=0, in=180] (1.5, 7.5);
+  \draw (1, 7) to[out=0, in=180] (2, 7);
+  \draw (1.5, 7.5) to[out=90, in=-90] (1.5, 8);
+  \draw (1.5, 8) to[out=0, in=90] (4, 8) to[out=-90, in=180] (4, 7.5);
+  \draw (2, 7) to[out=-90, in=180] (2, 6.5) to[out=0, in=-90] (3.5, 6.5) to[out=90, in=-90] (3.5, 7) to[out=90, in=180] (4, 7);
+  \draw (2, 7.5) to[out=0, in=180] (m0.180);
+  \draw (2, 7.5) to[out=0, in=180] (m0.180);
+  \draw (m0.0) to[out=0, in=45] (m0.45);
+  \draw (m0.0) to[out=0, in=180] (m0.180);
+  \draw (m0.0) to[out=0, in=180] (m0.180);
+  \draw (m0.-45) to[out=-45, in=90] (2.5, 7) to[out=-90, in=0] (m0.0);
+  \draw (d0.center) to[out=0, in=180] (4, 7.5);
+  \draw (d0.center) to[out=0, in=180] (3.5, 7);
+  \draw (3.5, 7.5) to[out=0, in=180] (3.5, 7) to[out=-45, in=180] (3.5, 7) to[out=-45, in=90] (3.5, 7) to[out=-90, in=45] (3.5, 7);
+  \draw (m0.0) to[out=0, in=180] (3.5, 7);
+  \draw (m0.0) to[out=0, in=180] (3.5, 6.5);
+  \draw (3.5, 7) to[out=-45, in=90] (3.5, 6.5) to[out=-90, in=0] (3.5, 6.5);
+  \draw (3.5, 7) to[out=180, in=-45] (d0.center);
+\end{tikzpicture}
+\end{document}
