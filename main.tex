@@ -1,0 +1,308 @@
+\documentclass[12pt, a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{parskip}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{float}
+\restylefloat{table}
+\usepackage{diagbox}
+\usepackage{bm}
+\usepackage{import}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{lipsum}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage[export]{adjustbox}
+\usepackage{etoolbox}
+\usepackage{listings}
+\usepackage{xcolor}
+\lstloadlanguages{Python}
+\usepackage{textgreek}
+\usepackage{wrapfig}
+\usepackage{pgfplots}
+\pgfplotsset{width=14cm,compat=1.17}
+\usepgfplotslibrary{external}
+\usetikzlibrary{patterns.meta,decorations.pathmorphing,patterns}
+\tikzexternalize
+\usepackage[]{babel}
+\usepackage{appendix}
+\usepackage{listingsutf8}
+
+
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.85}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+
+\lstset{literate={θ}{{$\theta$}}1{ω}{{$\omega$}}1}
+
+
+
+
+\renewcommand{\contentsname}{\textit{Contents}\hline}
+\renewcommand{\bibname}{\textit{Bibliography}}
+\renewcommand{\listfigurename}{\textit{List of Figures}\hline}
+\renewcommand{\listtablename}{\textit{List of Tables}\hline}
+
+\nocite{*}
+
+\titleformat{\chapter}{\huge\bfseries}{\thechapter}{0.5em}{\huge}
+\makeatletter
+\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+\makeatother
+
+
+
+\graphicspath{{Images/}}
+
+
+
+\input{Front matter/Title Page v2}
+
+
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+\clearpage
+%\listoffigures
+\listoftables
+
+
+
+\begin{abstract}
+    \import{Sections}{Abstract}
+\end{abstract}
+
+
+
+\chapter{\textit{Introduction}}
+        
+        \import{Sections}{Introduction}       
+        
+\chapter{\textit{Aim}}
+        
+        \import{Sections}{Aim}
+
+\chapter{\textit{Hypothesis}}
+        
+        \import{Sections}{Hypothesis}    
+        
+\chapter{\textit{Background Research}}
+        
+        \import{Sections}{Background Research}
+        
+\chapter{\textit{Materials Required}}
+        
+        \import{Sections}{Materials Required}
+        
+\chapter{\textit{Variables}}
+        
+        \import{Sections}{Variables}
+        
+\chapter{\textit{Procedure}}
+        
+        \import{Sections}{Procedure}
+        
+%\chapter{\textit{Initial Conditions}}
+        
+%        \import{Sections}{Initial Conditions}
+        
+\chapter{\textit{Equations}}
+        
+        \import{Sections}{Equation}
+
+\chapter{\textit{Data}}
+
+	  \import{Sections}{Data}      
+        
+%\chapter{\textit{Experimental Data}}
+        
+%        \import{Sections}{Experimental Data Mod 2}
+        
+%\chapter{\textit{Simulation Data}}
+        
+%        \import{Sections}{Simulation Data}
+        
+%\chapter{\textit{Derived Data}}
+        
+%        \import{Sections}{Derived Data}
+        
+\chapter{\textit{Observations}}
+        
+        \import{Sections}{Observations}
+        
+%\chapter{\textit{Observations from Derived Data}}
+        
+%        \import{Sections}{Observations from Derived Data}
+        
+\chapter{\textit{Analysis}}
+        
+%        \import{Sections}{Graphical Analysis}
+
+			\import{Sections}{IAGraph}
+        
+%        \import{Sections}{Numerical Analysis}
+        
+\chapter{\textit{Evaluation}}
+        
+        \import{Sections}{Evaluation}
+        
+\chapter{\textit{Limitations of Study}}
+        
+        \import{Sections}{Limitations of Study}
+    
+\chapter{\textit{Safety Measures}}
+        
+        \import{Sections}{Safety Measures} 
+                
+\chapter{\textit{Sources of Error}}
+        
+        \import{Sections}{Sources of Error}
+        
+\chapter{\textit{Conclusion}}
+        
+        \import{Sections}{Conclusion}
+        
+
+        
+\clearpage
+
+\import{Works Cited}{Bib}
+
+
+\clearpage
+
+%\appendix
+
+%\import{Appendix}{appdix}
+
+
+\end{document}
+
+\let\clearpage\relax
+
+\makeatletter
+\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+\makeatother
+
+\lstset{literate={ω}{{$\omega$}}1}
+
+
+
+aim
+objectives
+hypothesis
+rationale and purpose of study -> anticipated result's of this study
+Testing Hypothesis
+literature review
+input and output based research
+results - conclusion
+
+methodology -> Data source
+Data collection methodology - published literature
+method of data analysis
+
+Dissertation topic
+
+Recommendations 
+
+
+\section{\textit{Sub case when m = 100 g}}
+        
+\section{\textit{Sub case when m = 200 g}}
+        
+\section{\textit{Sub case when m = 300 g}}
+        
+\section{\textit{Sub case when m = 400 g}}
+        
+\section{\textit{Sub case when m = 500 g}}
+        
+\section{\textit{Sub case when m = 600 g}}
+        
+\section{\textit{Sub case when m = 700 g}}
+        
+\section{\textit{Sub case when m = 800 g}}
+        
+\section{\textit{Sub case when m = 900 g}}
+        
+\section{\textit{Sub case when m = 1000 g}}
+        
+
+
+
+
+
+\begin{table}[H]
+                \centering
+                \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+                \hline
+                \hline
+                \diagbox[width=12em]{\textit{Observation} \\ \textit{number} ($x_i$)}{\textit{Time} \\ (\textit{in seconds})} & 0 & 2.5 & 5.0 & 7.5 & 10.0 & 12.5 & 15.0 & 17.5 & 20.0 \\
+                \hline
+                \hline
+                1 &  &  &  &  &  &  &  &  &  \\
+                \hline
+                2 &  &  &  &  &  &  &  &  &  \\
+                \hline
+                3 &  &  &  &  &  &  &  &  &  \\
+                \hline
+                4 &  &  &  &  &  &  &  &  &  \\
+                \hline
+                5 &  &  &  &  &  &  &  &  &  \\
+                \hline
+                6 &  &  &  &  &  &  &  &  &  \\
+                \hline
+                7 &  &  &  &  &  &  &  &  &  \\
+                \hline
+                8 &  &  &  &  &  &  &  &  &  \\
+                \hline
+                9 &  &  &  &  &  &  &  &  &  \\
+                \hline
+                10 &  &  &  &  &  &  &  &  &  \\
+                \hline
+                \hline
+                \end{tabular}
+                \caption{}
+                \label{}
+            \end{table}
+            
+            
+            
+            
+            
+            
+            
+
+
+φ
+
+
+
+
+
