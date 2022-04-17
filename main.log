@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  26 JAN 2022 02:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  25 FEB 2022 22:33
 entering extended mode
 **./main.tex
 (main.tex
@@ -1437,16 +1437,9 @@ Overfull \hbox (16.29012pt too wide) in paragraph at lines 1--108
  []
 
 (Sections/Introduction.tex
-Overfull \hbox (1.00436pt too wide) in paragraph at lines 1--2
+Overfull \hbox (1.00436pt too wide) in paragraph at lines 1--3
 \OT1/cmr/m/n/12 I have chosen this research question because the fundamental re
 lation between
- []
-
-
-Overfull \hbox (7.29886pt too wide) in paragraph at lines 1--2
-\OT1/cmr/m/n/12 to carry out research and collect data both \OT1/cmr/bx/n/12 qu
-antitatively \OT1/cmr/m/n/12 and \OT1/cmr/bx/n/12 qualitatively\OT1/cmr/m/n/12 
-. 
  []
 
 ) (Sections/Aim.tex)
@@ -1873,30 +1866,35 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6B995CA55E01F692ADC6D30E80F09AB8;6057.
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 1 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
  37261 strings out of 478868
  824494 string characters out of 2865271
- 1402752 words of memory out of 3000000
+ 1404129 words of memory out of 3000000
  54337 multiletter control sequences out of 15000+600000
  422701 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,18n,89p,1786b,2552s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Sayeed Ahmad\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
-00\tcrm1200.pk><C:/MikTek/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb><C:/Mi
-kTek/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MikTek/fonts/type1/public/am
-sfonts/cm/cmbx12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Mi
-kTek/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MikTek/fonts/type1/public/
-amsfonts/cm/cmex10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:
-/MikTek/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/MikTek/fonts/type1/public/
-amsfonts/cm/cmmi8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:
-/MikTek/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/MikTek/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr12.pfb
-><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/MikTek/fonts/type1/publ
-ic/amsfonts/cm/cmr8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
-:/MikTek/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MikTek/fonts/type1/public
-/amsfonts/cm/cmti12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (23 pages, 385117 bytes).
+ 84i,18n,89p,1786b,2797s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Sayeed Ahmad\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\tcrm1200.pk><C:/MikTek/fonts/type1/public/amsfonts/cmextra/cmb
+sy8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MikTek/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cm
+bx8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MikTek/fonts
+/type1/public/amsfonts/cm/cmex10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/
+cmmi12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/MikTek/fonts
+/type1/public/amsfonts/cm/cmmi8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/c
+mmib10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/MikTek
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/MikTek/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/MikTek/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MikTek/font
+s/type1/public/amsfonts/cm/cmti12.pfb><C:/MikTek/fonts/type1/public/amsfonts/cm
+/cmtt12.pfb>
+Output written on main.pdf (23 pages, 385144 bytes).
 PDF statistics:
  449 PDF objects out of 1000 (max. 8388607)
  79 named destinations out of 1000 (max. 500000)
