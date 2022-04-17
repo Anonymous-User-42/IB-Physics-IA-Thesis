@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  8 APR 2022 02:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  9 APR 2022 23:11
 entering extended mode
 **./main.tex
 (main.tex
@@ -1555,10 +1555,10 @@ Overfull \hbox (18.26126pt too wide) in paragraph at lines 145--174
  []
 
 [8]) (Sections/Evaluation Mod 2.tex
-Overfull \hbox (3.79408pt too wide) in paragraph at lines 1--2
+Overfull \hbox (24.2782pt too wide) in paragraph at lines 1--2
 \OT1/ptm/m/n/12 Let $\OML/ztmcm/m/it/12 F[]$ \OT1/ptm/m/n/12 be the experimenta
 l values and $\OML/ztmcm/m/it/12 F[]$ \OT1/ptm/m/n/12 be the simulation values 
-respectively
+correspondingly
  []
 
 
@@ -1724,10 +1724,15 @@ Overfull \hbox (8.06749pt too wide) in paragraph at lines 223--325
  []
 
 [12])
-Overfull \hbox (29.68335pt too wide) in paragraph at lines 5--6
-\OT1/ptm/m/n/12 are both \OT1/ptm/b/n/12 accurate \OT1/ptm/m/n/12 and \OT1/ptm/
-b/n/12 precise \OT1/ptm/m/n/12 in relation to that of the \OT1/ptm/b/n/12 liter
-ature/theoretical/simulation
+Overfull \hbox (24.91853pt too wide) in paragraph at lines 5--6
+\OT1/ptm/m/n/12 from the \OT1/ptm/b/n/12 F-T \OT1/ptm/m/n/12 plot is so small t
+hat it is reasonable to infer that perhaps the experimentally
+ []
+
+
+Overfull \hbox (89.63425pt too wide) in paragraph at lines 5--6
+\OT1/ptm/m/n/12 measured readings are both accurate and precise in comparison t
+o the literature/theoretical/simulation
  []
 
 [13]
@@ -1815,7 +1820,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  37418 strings out of 478868
  826726 string characters out of 2865271
- 1404302 words of memory out of 3000000
+ 1404284 words of memory out of 3000000
  54465 multiletter control sequences out of 15000+600000
  454442 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1832,7 +1837,7 @@ nts/cm/cmtt12.pfb><C:/MikTek/fonts/type1/urw/symbol/usyr.pfb><C:/MikTek/fonts/t
 ype1/urw/symbol/usyr.pfb><C:/MikTek/fonts/type1/urw/times/utmb8a.pfb><C:/MikTek
 /fonts/type1/urw/times/utmbi8a.pfb><C:/MikTek/fonts/type1/urw/times/utmr8a.pfb>
 <C:/MikTek/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (20 pages, 303297 bytes).
+Output written on main.pdf (20 pages, 303214 bytes).
 PDF statistics:
  345 PDF objects out of 1000 (max. 8388607)
  67 named destinations out of 1000 (max. 500000)
