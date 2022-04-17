@@ -38,7 +38,7 @@
             
     \textit{Drag forces decrease the fluid velocity relative to the solid mass in the fluid's path.}
             
-    \textit{The type of Drag in play in this system is that of an underdamped ($\zeta < 1$) oscillator with viscous drag.}
+%    \textit{The type of Drag in play in this system is that of an underdamped ($\zeta < 1$) oscillator with viscous drag.}
             
     \textit{The general Drag equation is mathematically defined as,}
             
@@ -81,7 +81,56 @@
             
 %    \textit{Where $F_D$ is the small Reynolds numbers between the mass and the fluid, $\mu$ is the \textbf{dynamic viscosity} of the fluid, R is the \textbf{radius} of the mass and $v_D$ is the \textbf{flow velocity} relative to the mass.}
 
-\subsection{\textit{Temperature dependence on density}}
+\subsection{\textit{Temperature dependence of thermal expansion \\ coefficient}}
+
+	\textit{The thermal expansion coefficient is defined as,}
+	
+		$$\alpha_{L} = \frac{1}{L}\cdot\frac{\partial L}{\partial T}$$
+	
+	\textit{Where, L is the \textbf{length measurement}, $\alpha_{L}$ is the \textbf{thermal expansion coefficient} in the dimension of the length measurement and T is the \textbf{temperature}.}	
+	
+	\textit{Because, the length measurement that we are dealing with is Volume, the above equation reduces to,}
+
+		$$\alpha_{V} = \frac{1}{V}\cdot\frac{dV}{dT}$$
+	
+	\textit{This clearly indicates that $\alpha_{V}$ or the cubic expansion coefficient is a function dependent of temperature.}	
+	
+	\textit{The below table encompasses the values of the cubic expansion coefficient of water at certain temperatures.}	
+	
+	\begin{table}[H]
+		\centering
+		\begin{tabular}{|c|c|}
+		\hline
+		\hline
+		\textit{Temperature $^\circ C$} & \textit{Cubic thermal expansion coefficient $1/^\circ C$} \\
+		\hline
+		\hline
+		0 & -0.000050 \\
+		\hline		
+		10 & 0.000088 \\
+		\hline
+		20 & 0.000207 \\
+		\hline
+		30 & 0.000303 \\
+		\hline
+		40 & 0.000385 \\
+		\hline
+		50 & 0.000457 \\
+		\hline
+		60 & 0.000522 \\
+		\hline
+		70 & 0.000582 \\
+		\hline
+		80 & 0.000640 \\
+		\hline
+		90 & 0.000695 \\
+		\hline
+		\hline 
+		\end{tabular}
+	
+	\end{table}
+
+\subsection{\textit{Temperature dependence of density}}
             
 	\textit{We must know the fundamental relation between change in \textbf{temperature} on change in \textbf{density}.}
             
@@ -99,9 +148,21 @@
             
 	\textit{We have a equation for the temperature dependence on density \cite{0}. That is,}            
             
-		$$\rho = \frac{\rho_{0}}{1 + \beta\cdot\Delta T}$$            
+		$$\rho = \frac{\rho_{0}}{1 + \gamma\cdot\Delta T}$$            
 
-	\textit{Where $\rho$ is the \textbf{current density} of a particular substance, $\rho_{0}$ is the \textbf{initial density} of a particular substance, $\beta$ is the \textbf{volumetric/cubic thermal expansion coefficient} and $\Delta T$ is the change in the temperature from the initial state.}            
+	\textit{Where $\rho$ is the \textbf{current density} of a particular substance, $\rho_{0}$ is the \textbf{initial density} of a particular substance, $\gamma$ is the \textbf{volumetric/cubic thermal expansion coefficient} and $\Delta T$ is the change in the temperature from the initial state.}            
+
+	\textit{As $\left(1 + \gamma\cdot\Delta T\right)^{-1}$ is of the form $\left(1 + x\right)^{-1}$ we have,}
+	
+		$$\left(1 + \gamma\cdot\Delta T\right)^{-1} = 1 - \left(\gamma\cdot\Delta T\right) + \left(\gamma\cdot\Delta T\right)^2 - \left(\gamma\cdot\Delta T\right)^3 \cdots$$
+
+	\textit{If we ignore the higher order terms of $\left(\gamma\cdot\Delta T\right)$, as they are negligibly small, we have,}
+            
+		$$\rho = \rho_{0}\left(1 - \gamma\cdot\Delta T\right)$$            
+
+	\textit{Because $\gamma$ is a function of T, $\gamma = \gamma_{T}$, therefore we have,}
+
+		$$\rho = \rho_{0}\left(1 - \gamma_{T}\cdot\Delta T\right)$$
             
 %\section{\textit{Logarithmic Decrement}}
             
@@ -136,6 +197,8 @@
     \textit{To \textbf{model} the \textbf{drag force} on a \textbf{sphere in fluid flow}, we would need the aid of \textbf{computational technology}. Software's such MATLAB, Mathematica or some simple, eccentric computer programming language code in a emulatable script format, that would compute and yield solutions for necessary simulations that are required.}
     
 %    \textit{For the purpose of this investigation we shall be using a \textbf{Python script}, the source code of which can be found in \textbf{appendix \ref{pycode}}, to model and simulate the dynamic and chaotic system.}
+
+    \textit{For the purpose of this investigation we shall be using a \textbf{MATLAB script}, to model and simulate the system.}
         
         
 
