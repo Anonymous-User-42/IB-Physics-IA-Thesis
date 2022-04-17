@@ -1,44 +1,10 @@
 {Before beginning this investigation we must first know some important facts, formulae, laws and be familiar with the concepts that are to be incorporated in this investigation.}
-
-%\section{\textit{The Lagrangian function}}
-        
-%    \textit{Firstly, we must know that the fundamental concepts of \textbf{Lagrangian mechanics} and \textbf{Lagrange's equations}.}
-        
-%    \textit{The \textbf{Lagrangian} is a function that is mathematically defined as,}
-        
-%    $$L = T - V$$
-        
-%    \textit{Where, L is the Lagrangian, T is the \textbf{kinetic energy} of the system and V is the \textbf{potential energy} of the system.}
-        
-%    \textit{The Lagrange's equation of second kind or the Lagrange-Euler Equation is mathematically defined as,}
-        
-%    $$\frac{d}{dt}\left(\frac{\partial L}{\partial \dot{q}_j}\right) - \frac{\partial L}{\partial q_j} = Q_j$$
-        
-%    \textit{Where $q_j$ is the \textbf{generalized coordinates} and $Q_j$ is the \textbf{generalized forces}.}
-      
-%    \section{\textit{Generalized coordinates}}
-        
-%    \textit{According to our specific system that we are investigating, we have two generalized coordinates in \textbf{polar coordinate representation}, $\theta$ and x.}
-        
-%    \textit{$\theta$ represents the \textbf{angle formed by the spring component with the fictitious normal} of the system at any given time and is a function of time (time-dependent).}
-        
-%    \textit{x represents the \textbf{extension in the spring component from the equilibrium length} at any given time and is a function of time (time - dependent).}
-            
-%    \section{\textit{Generalized forces}}
-        
-%    \textit{According to our specific system that we are investigating, we only have one generalized forces (non-conservative force), the \textbf{frictional force} acting on the path of the system in the form of drag or fluid resistance.}
-        
-%    \textit{Our frictional force can be embedded in Lagrange's equations in the form of the $Q_j$ term aided with the utilization of the \textbf{Rayleigh dissipation function}.}
-        
-%    \textit{As there isn't any other non-conservative force, the net total sum of the Lagrange's equations with the incorporation of the Rayleigh dissipation function would equal zero.}
         
 \subsection{{Air Drag/Fluid Resistance}}
         
     {Air Drag/Fluid Resistance is the force acting opposite to the relative motion of any object moving in any fluid medium. Drag force is proportional to the \textbf{square of velocity}, as we are dealing with relatively high-speeds, which can be inferred from the small Reynolds's number.}
             
     {Drag forces decrease the fluid velocity relative to the solid mass in the fluid's path.}
-            
-%    \textit{The type of Drag in play in this system is that of an underdamped ($\zeta < 1$) oscillator with viscous drag.}
             
     {The general Drag equation is mathematically defined as,}
             
@@ -48,39 +14,6 @@
             
     {\textbf{Note}: The\textbf{velocity decay constant}, $C_D$ for the particular case that we are investigating, that is on \textbf{spherical bodies} has a set defined value of \textbf{0.47}.}
             
-%\section{\textit{Rayleigh dissipation function}}
-            
-%    \textit{Secondly, we must also know that,}
-            
-%    \textit{If the frictional force on a particle with velocity $\vec{v}$ can be written as $\vec{F_f} = -\vec{k}\cdot\vec{v}$, the Rayleigh dissipation function can be defined for a system of \textbf{n} particles as,}
-            
-%        $$R/D = \frac{1}{2} \sum_{i=0}^n C_Dv^2_i = \frac{1}{2}C_D \sum_{i=0}^n v^2_i$$
-            
-%    \textit{Where R or D is the Rayleigh dissipation function which is a function used to handle and model the effects of \textbf{velocity-proportional frictional forces in Lagrangian mechanics}, where $C_D$ is the \textbf{velocity decay constant} (damping constant) and $\sum_{i=0}^n v^2_i$ is the sum of all velocities squared in all degrees of freedom pertaining to a mechanical system with n being the number of degrees of freedom in the system.}
-		
-%	\textit{\textbf{Note}: An alternate representation could be also used to represent $C_D$ in the form of a $n \times n$ matrix. Mathematically,}        
-            
-%		\textit{C_D =}
-%        \begin{bmatrix}
-%		k_i & 0 & 0 & \cdots & 0 \\
-%		0 & k_j & 0 & \cdots & 0 \\
-%		0 & 0 & k_k & \cdots & 0\\
-%		\vdots & \vdots & \vdots & \ddots & 0 \\
-%		0 & 0 & 0 & 0 & k_n \\
-%		\end{bmatrix}          
-            
-%\subsection{\textit{Stokes Law}}\label{slaw}
-            
-%    \textit{We must know the Stroke's Law and the relation it defines to accurately model the change in Air Drag/Fluid Resistance with time.}
-            
-%    \textit{Stroke's Law states a relation for the frictional force (drag force) exerted on \textbf{spherical objects} with very \textbf{small Reynolds numbers} in a viscous fluid. Mathematically,}
-            
-%        $$F_D = 6\pi\mu Rv_D$$
-            
-%    \textit{\textbf{Note}: This relation is only applicable in this scenario because the mass that we are dealing with is spherical.}
-            
-%    \textit{Where $F_D$ is the small Reynolds numbers between the mass and the fluid, $\mu$ is the \textbf{dynamic viscosity} of the fluid, R is the \textbf{radius} of the mass and $v_D$ is the \textbf{flow velocity} relative to the mass.}
-
 \subsection{{Temperature dependence of thermal expansion \\ coefficient}}
 
 	{The thermal expansion coefficient is defined as,}
@@ -95,7 +28,7 @@
 	
 	{This clearly indicates that $\alpha_{V}$ or the cubic expansion coefficient is a function dependent of temperature.}	
 	
-	{The below table encompasses the values of the cubic expansion coefficient of water at certain temperatures.}	
+	{The below table encompasses the values of the cubic expansion coefficient of water (“Volumetric (Cubic) Thermal Expansion”) at certain temperatures.}	
 	
 	\begin{table}[H]
 		\centering
@@ -146,7 +79,7 @@
             
 	{Therefore, we infer that, \textbf{density} is \textbf{inversely proportional} to \textbf{volume} of the substance, here the \textbf{fluid}.}            
             
-	{We have a equation for the temperature dependence on density \cite{0}. That is,}            
+	{We have a equation for the temperature dependence on density from (“Liquids - Densities vs. Pressure and Temperature Change”). That is,}            
             
 		$$\rho = \frac{\rho_{0}}{1 + \gamma\cdot\Delta T}$$            
 
@@ -163,40 +96,10 @@
 	{Because $\gamma$ is a function of T, $\gamma = \gamma_{T}$, therefore we have,}
 
 		$$\rho = \rho_{0}\left(1 - \gamma_{T}\cdot\Delta T\right)$$
-            
-%\section{\textit{Logarithmic Decrement}}
-            
-%    \textit{The system exhibits an interesting feature, that of constant logarithmic decrements, that is,}
-            
-%        $$\ln{\frac{x_1}{x_2}} = \ln{\frac{x_2}{x_3}} = \ln{\frac{x_3}{x_4}} = \cdots\cdots\cdots$$
-            
-%    \textit{Where $x_n$ and $x_{n + 1}$ are the amplitudes of any two successive peaks ($n \in \mathbb{R}$).}
-            
-%    \textit{Also interestingly that for any two successive peaks of a graphical representation of any parameter versus time employed in this investigation, if we define,}
-            
-%        $$\delta = \ln{\left(\frac{x_n}{x_{n + 1}}\right)}$$
-            
-%    \textit{For a graphical representation of any parameter employed in this investigation.}
-            
-%    \textit{Then,}
-            
-%        $$\zeta = \frac{\delta}{\sqrt{\delta^2 + \left(2\pi\right)^2}}$$
-            
-%    \textit{With the above findings and definitions, we can create an expression for percentage overshoot, that is,}
-            
-%        $$\textit{Percentage Overshoot} = 100\cdot\exp{\left(-\frac{\zeta\pi}{\sqrt{1 - \zeta^2}}\right)}$$
-            
-%    \textit{Consequently we can find an expression for $\zeta$ in terms of \textbf{percentage overshoot} (PO). That is,}
-            
-%        $$\zeta = \frac{-\ln{\left(\frac{PO}{100}\right)}}{\sqrt{\pi^2 + \ln^2{\left(\frac{PO}{100}\right)}}}$$
-            
-%    \textit{\textbf{Note}: $\zeta$ here, in the context of Drag forces and resistive forces symbolizes the damping ratio.}
-            
+                      
 \subsection{{Computer Simulation Software}}
         
     {To \textbf{model} the \textbf{drag force} on a \textbf{sphere in fluid flow}, we would need the aid of \textbf{computational technology}. Software's such MATLAB, Mathematica or some simple, eccentric computer programming language code in a emulatable script format, that would compute and yield solutions for necessary simulations that are required.}
-    
-%    \textit{For the purpose of this investigation we shall be using a \textbf{Python script}, the source code of which can be found in \textbf{appendix \ref{pycode}}, to model and simulate the dynamic and chaotic system.}
 
     {For the purpose of this investigation we shall be using a \textbf{MATLAB script}, to model and simulate the system.}
         
