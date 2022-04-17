@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  6 APR 2022 19:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  8 APR 2022 02:41
 entering extended mode
 **./main.tex
 (main.tex
@@ -1470,9 +1470,10 @@ LaTeX Warning: No \author given.
 
 (Sections/Research Question.tex) (Sections/Introduction.tex) (Sections/Aim.tex)
 
-Overfull \hbox (18.59526pt too wide) in paragraph at lines 1--131
-\OT1/ptm/m/n/12 same and, studying its \OT1/ptm/b/n/12 different states \OT1/pt
-m/m/n/12 and calculating the value of the \OT1/ptm/b/n/12 inconsistencies
+Overfull \hbox (4.81989pt too wide) in paragraph at lines 1--131
+\OT1/ptm/b/n/12 precision \OT1/ptm/m/n/12 of the \OT1/ptm/b/n/12 numerically mo
+delled computer model \OT1/ptm/m/n/12 to that of the \OT1/ptm/b/n/12 experiment
+
  []
 
 (Sections/Hypothesis.tex) (Sections/Background Research.texpdfTeX warning (ext4
@@ -1489,10 +1490,10 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
 
-Overfull \hbox (19.7502pt too wide) in paragraph at lines 15--16
-[]\OT1/ptm/b/n/12 Note\OT1/ptm/m/n/12 : The\OT1/ptm/b/n/12 velocity decay const
-ant\OT1/ptm/m/n/12 , $\OML/ztmcm/m/it/12 C[]$ \OT1/ptm/m/n/12 for the particula
-r case that we are investigating,
+Overfull \hbox (22.03023pt too wide) in paragraph at lines 15--16
+[]\OT1/ptm/b/n/12 Note\OT1/ptm/m/n/12 : The \OT1/ptm/b/n/12 velocity decay cons
+tant\OT1/ptm/m/n/12 , $\OML/ztmcm/m/it/12 C[]$ \OT1/ptm/m/n/12 for the particul
+ar case that we are investigating,
  []
 
 
@@ -1730,23 +1731,27 @@ ature/theoretical/simulation
  []
 
 [13]
-Overfull \hbox (2.01216pt too wide) in paragraph at lines 13--14
-[]\OT1/ptm/m/n/12 This \OT1/ptm/b/n/12 contradicts \OT1/ptm/m/n/12 the \OT1/ptm
-/b/n/12 initial hypothesis \OT1/ptm/m/n/12 laid out prior to beginning the inve
-stigation
- []
-
-
 Overfull \hbox (0.9324pt too wide) in paragraph at lines 16--17
 []\OT1/ptm/m/n/12 It would be right to say that the \OT1/ptm/b/n/12 initial hyp
 othesis \OT1/ptm/m/n/12 that was laid out prior, beginning
  []
 
-) (Sections/Limitations of Study.tex) (Sections/Safety Measures.tex [14])
-(Sections/Sources of Error.tex
-Overfull \hbox (4.5072pt too wide) in paragraph at lines 4--5
-[]\OT1/ptm/m/n/12 The raw experimental data presented here in the research repo
-rt was collected
+) (Sections/Limitations of Study.tex) (Sections/Safety Measures.tex
+Overfull \hbox (20.51591pt too wide) in paragraph at lines 3--4
+\OT1/ptm/m/n/12 The following are the safety precautions that were implemented 
+during the experiment: 
+ []
+
+
+Overfull \hbox (5.31075pt too wide) in paragraph at lines 6--7
+\OT1/ptm/m/n/12 upon highly combustible materials, as this might result in comb
+ustion, caused
+ []
+
+[14]) (Sections/Sources of Error.tex
+Overfull \hbox (1.84326pt too wide) in paragraph at lines 6--7
+[]\OT1/ptm/m/n/12 Owing to the unavailability of highly advanced tools and mate
+rials employed
  []
 
 ) (Sections/Conclusion.tex
@@ -1810,7 +1815,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  37418 strings out of 478868
  826726 string characters out of 2865271
- 1404303 words of memory out of 3000000
+ 1404302 words of memory out of 3000000
  54465 multiletter control sequences out of 15000+600000
  454442 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1827,7 +1832,7 @@ nts/cm/cmtt12.pfb><C:/MikTek/fonts/type1/urw/symbol/usyr.pfb><C:/MikTek/fonts/t
 ype1/urw/symbol/usyr.pfb><C:/MikTek/fonts/type1/urw/times/utmb8a.pfb><C:/MikTek
 /fonts/type1/urw/times/utmbi8a.pfb><C:/MikTek/fonts/type1/urw/times/utmr8a.pfb>
 <C:/MikTek/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (20 pages, 302819 bytes).
+Output written on main.pdf (20 pages, 303297 bytes).
 PDF statistics:
  345 PDF objects out of 1000 (max. 8388607)
  67 named destinations out of 1000 (max. 500000)
