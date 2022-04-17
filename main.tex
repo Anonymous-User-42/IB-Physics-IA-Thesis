@@ -28,6 +28,9 @@
 \usepackage[]{babel}
 \usepackage{appendix}
 \usepackage{listingsutf8}
+%\usepackage[scaled,nueu]{helvet}
+%\usepackage[proportional,scaled=1.064]{erewhon}
+%\usepackage[T1]{fontenc}
 \usepackage{booktabs}
 \usepackage{multirow}
 
@@ -63,6 +66,8 @@
 
 
 
+
+\renewcommand{\familydefault}{\sfdefault}
 
 \renewcommand{\contentsname}{\textit{Contents}\hline}
 \renewcommand{\refname}{\textit{Bibliography}}
@@ -111,6 +116,14 @@
         
         \import{Sections}{Aim}
 
+%	Research Question
+			
+\large
+			
+		\textit{\textbf{Research Question}: How does Temperature of the fluid medium in laminar flow affect the drag force on a spherical body in linear motion? }
+			
+\normalsize
+				
 \section{\textit{Hypothesis}}
         
         \import{Sections}{Hypothesis}    
@@ -206,9 +219,11 @@
 
 \clearpage
 
-%\appendix
+\appendix
 
-%\import{Appendix}{appdix}
+\appendixpage
+
+\import{Appendix}{appdix Mod 1}
 
 
 \end{document}
