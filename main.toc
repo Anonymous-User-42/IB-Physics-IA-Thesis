@@ -1,28 +1,29 @@
 \babel@toc {nil}{}\relax 
-\contentsline {section}{\numberline {1}{Introduction}}{3}{section.1}%
-\contentsline {section}{\numberline {2}{Aim}}{3}{section.2}%
-\contentsline {section}{\numberline {3}{Hypothesis}}{3}{section.3}%
-\contentsline {section}{\numberline {4}{Background Research}}{3}{section.4}%
-\contentsline {subsection}{\numberline {4.1}{Air Drag/Fluid Resistance}}{4}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}{Temperature dependence of thermal expansion \\ coefficient}}{4}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}{Temperature dependence of density}}{5}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}{Computer Simulation Software}}{6}{subsection.4.4}%
-\contentsline {section}{\numberline {5}{Materials Required}}{6}{section.5}%
-\contentsline {section}{\numberline {6}{Variables}}{7}{section.6}%
-\contentsline {section}{\numberline {7}{Procedure}}{8}{section.7}%
-\contentsline {section}{\numberline {8}{Equations}}{8}{section.8}%
-\contentsline {subsection}{\numberline {8.1}{Drag Equation for the Study}}{8}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}{Equation used for further Investigation}}{9}{subsection.8.2}%
-\contentsline {section}{\numberline {9}{Data}}{10}{section.9}%
-\contentsline {subsection}{\numberline {9.1}{Experimental Data}}{10}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}{Simulation Data}}{10}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}{Processed Data}}{11}{subsection.9.3}%
-\contentsline {section}{\numberline {10}{Evaluation}}{11}{section.10}%
-\contentsline {section}{\numberline {11}{Analysis}}{13}{section.11}%
-\contentsline {section}{\numberline {12}{Limitations of Study}}{16}{section.12}%
-\contentsline {section}{\numberline {13}{Safety Measures}}{16}{section.13}%
-\contentsline {section}{\numberline {14}{Sources of Error}}{17}{section.14}%
-\contentsline {section}{\numberline {15}{Conclusion}}{17}{section.15}%
-\contentsline {section}{{Works Cited}}{18}{section.15}%
-\contentsline {section}{{Bibliography}}{18}{section.15}%
+\contentsline {section}{\numberline {1}{Research Question}}{3}{section.1}%
+\contentsline {section}{\numberline {2}{Introduction}}{3}{section.2}%
+\contentsline {section}{\numberline {3}{Aim}}{3}{section.3}%
+\contentsline {section}{\numberline {4}{Hypothesis}}{3}{section.4}%
+\contentsline {section}{\numberline {5}{Background Research}}{3}{section.5}%
+\contentsline {subsection}{\numberline {5.1}{Air Drag/Fluid Resistance}}{3}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}{Temperature dependence of thermal expansion \\ coefficient}}{4}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}{Temperature dependence of density}}{5}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}{Computer Simulation Software}}{6}{subsection.5.4}%
+\contentsline {section}{\numberline {6}{Materials Required}}{6}{section.6}%
+\contentsline {section}{\numberline {7}{Variables}}{7}{section.7}%
+\contentsline {section}{\numberline {8}{Procedure}}{8}{section.8}%
+\contentsline {section}{\numberline {9}{Equations}}{8}{section.9}%
+\contentsline {subsection}{\numberline {9.1}{Drag Equation for the Study}}{8}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}{Equation used for further Investigation}}{9}{subsection.9.2}%
+\contentsline {section}{\numberline {10}{Data}}{10}{section.10}%
+\contentsline {subsection}{\numberline {10.1}{Experimental Data}}{10}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}{Simulation Data}}{10}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}{Processed Data}}{11}{subsection.10.3}%
+\contentsline {section}{\numberline {11}{Evaluation}}{11}{section.11}%
+\contentsline {section}{\numberline {12}{Analysis}}{13}{section.12}%
+\contentsline {section}{\numberline {13}{Limitations of Study}}{16}{section.13}%
+\contentsline {section}{\numberline {14}{Safety Measures}}{16}{section.14}%
+\contentsline {section}{\numberline {15}{Sources of Error}}{17}{section.15}%
+\contentsline {section}{\numberline {16}{Conclusion}}{17}{section.16}%
+\contentsline {section}{{Works Cited}}{18}{section.16}%
+\contentsline {section}{{Bibliography}}{18}{section.16}%
 \contentsline {section}{\numberline {A}Raw Experimental Data}{19}{appendix.A}%
