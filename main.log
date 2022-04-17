@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  5 APR 2022 23:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.23)  6 APR 2022 19:24
 entering extended mode
 **./main.tex
 (main.tex
@@ -1468,31 +1468,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 
 LaTeX Warning: No \author given.
 
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.101 \tableofcontents
-                      
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-(main.toc
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.22 ...numberline {12}{Analysis}}{13}{section.12}
-                                                  % [1])
-\tf@toc=\write5
-\openout5 = `main.toc'.
-
- [2]
 (Sections/Research Question.tex) (Sections/Introduction.tex) (Sections/Aim.tex)
 
 Overfull \hbox (18.59526pt too wide) in paragraph at lines 1--131
@@ -1500,9 +1475,20 @@ Overfull \hbox (18.59526pt too wide) in paragraph at lines 1--131
 m/m/n/12 and calculating the value of the \OT1/ptm/b/n/12 inconsistencies
  []
 
-(Sections/Hypothesis.tex) (Sections/Background Research.tex [3
+(Sections/Hypothesis.tex) (Sections/Background Research.texpdfTeX warning (ext4
+): destination with the same identifier (name{page.1}) has been already used, d
+uplicate ignored
+<to be read again> 
+                   \relax 
+l.3 \subsection{{Air Drag/Fluid Resistance}}
+                                             [1]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
 
-]
 Overfull \hbox (19.7502pt too wide) in paragraph at lines 15--16
 []\OT1/ptm/b/n/12 Note\OT1/ptm/m/n/12 : The\OT1/ptm/b/n/12 velocity decay const
 ant\OT1/ptm/m/n/12 , $\OML/ztmcm/m/it/12 C[]$ \OT1/ptm/m/n/12 for the particula
@@ -1513,19 +1499,19 @@ r case that we are investigating,
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 17.
 
-[4]
+[2]
 Overfull \hbox (4.8329pt too wide) in paragraph at lines 68--69
 \OT1/ptm/m/n/12 We must know the fundamental relation between change in \OT1/pt
 m/b/n/12 temperature \OT1/ptm/m/n/12 on change
  []
 
-
+[3]
 Overfull \hbox (2.35959pt too wide) in paragraph at lines 86--87
 \OT1/ptm/m/n/12 of a particular substance, $\OML/ztmcm/m/it/12 $ \OT1/ptm/m/n/
 12 is the \OT1/ptm/b/n/12 volumetric/cubic thermal expansion coefficient
  []
 
-[5]
+
 Overfull \hbox (12.96786pt too wide) in paragraph at lines 102--103
 \OT1/ptm/m/n/12 computer technology. Softwares such as MATLAB and Mathematica w
 ould compute
@@ -1537,14 +1523,14 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
  (C:\MikTek\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ))
-(Sections/Variables.tex [6]) (Sections/Procedure.tex
-<Images//Flow Pattern.svg.png, id=185, 601.24625pt x 417.56pt>
+(Sections/Variables.tex [4]) (Sections/Procedure.tex
+<Images//Flow Pattern.svg.png, id=146, 601.24625pt x 417.56pt>
 File: Images//Flow Pattern.svg.png Graphic file (type png)
 <use Images//Flow Pattern.svg.png>
 Package pdftex.def Info: Images//Flow Pattern.svg.png  used on input line 3.
 (pdftex.def)             Requested size: 284.52756pt x 197.60396pt.
- [7])
-(Sections/Equation.tex [8 <./Images//Flow Pattern.svg.png>]
+ [5])
+(Sections/Equation.tex [6 <./Images//Flow Pattern.svg.png>]
 Overfull \hbox (13.96382pt too wide) in paragraph at lines 26--27
 []\OT1/ptm/b/n/12 Note\OT1/ptm/m/n/12 : This equation is derived considering th
 e Celsius unit for temperature difference
@@ -1562,12 +1548,12 @@ Overfull \hbox (4.1466pt too wide) in paragraph at lines 37--38
 hermal expansion coefficient of water and T is the magnitude
  []
 
-) (Sections/Data.tex [9]
+) (Sections/Data.tex [7]
 Overfull \hbox (18.26126pt too wide) in paragraph at lines 145--174
  [][] 
  []
 
-[10]) (Sections/Evaluation Mod 2.tex
+[8]) (Sections/Evaluation Mod 2.tex
 Overfull \hbox (3.79408pt too wide) in paragraph at lines 1--2
 \OT1/ptm/m/n/12 Let $\OML/ztmcm/m/it/12 F[]$ \OT1/ptm/m/n/12 be the experimenta
 l values and $\OML/ztmcm/m/it/12 F[]$ \OT1/ptm/m/n/12 be the simulation values 
@@ -1579,7 +1565,7 @@ Overfull \hbox (7.4954pt too wide) in paragraph at lines 11--40
  [][][] 
  []
 
-[11]) (Sections/IAGraph.tex (Sections/./FDGraph1.tex
+[9]) (Sections/IAGraph.tex (Sections/./FDGraph1.tex
 \openout3 = `main.auxlock'.
 
 
@@ -1632,7 +1618,7 @@ Overfull \hbox (8.06749pt too wide) in paragraph at lines 3--89
 [] 
  []
 
-[12]
+[10]
 \openout3 = `main.auxlock'.
 
 
@@ -1679,7 +1665,7 @@ Overfull \hbox (8.06749pt too wide) in paragraph at lines 92--145
 [][] 
  []
 
-[13]
+[11]
 Overfull \hbox (1.10014pt too wide) in paragraph at lines 146--147
 \OT1/ptm/m/n/12 with \OT1/ptm/b/n/12 zero uncertainty\OT1/ptm/m/n/12 . On obser
 vation it looks evidently \OT1/ptm/b/n/12 similar to the quadratic
@@ -1736,14 +1722,14 @@ Overfull \hbox (8.06749pt too wide) in paragraph at lines 223--325
 [][] 
  []
 
-[14])
+[12])
 Overfull \hbox (29.68335pt too wide) in paragraph at lines 5--6
 \OT1/ptm/m/n/12 are both \OT1/ptm/b/n/12 accurate \OT1/ptm/m/n/12 and \OT1/ptm/
 b/n/12 precise \OT1/ptm/m/n/12 in relation to that of the \OT1/ptm/b/n/12 liter
 ature/theoretical/simulation
  []
 
-[15]
+[13]
 Overfull \hbox (2.01216pt too wide) in paragraph at lines 13--14
 []\OT1/ptm/m/n/12 This \OT1/ptm/b/n/12 contradicts \OT1/ptm/m/n/12 the \OT1/ptm
 /b/n/12 initial hypothesis \OT1/ptm/m/n/12 laid out prior to beginning the inve
@@ -1756,7 +1742,7 @@ Overfull \hbox (0.9324pt too wide) in paragraph at lines 16--17
 othesis \OT1/ptm/m/n/12 that was laid out prior, beginning
  []
 
-) (Sections/Limitations of Study.tex) (Sections/Safety Measures.tex [16])
+) (Sections/Limitations of Study.tex) (Sections/Safety Measures.tex [14])
 (Sections/Sources of Error.tex
 Overfull \hbox (4.5072pt too wide) in paragraph at lines 4--5
 []\OT1/ptm/m/n/12 The raw experimental data presented here in the research repo
@@ -1769,7 +1755,7 @@ Overfull \hbox (19.99948pt too wide) in paragraph at lines 1--2
 emperature \OT1/ptm/m/n/12 change on a \OT1/ptm/b/n/12 sphere/spherical
  []
 
-) [17] (Works Cited/WC.tex
+) [15] (Works Cited/WC.tex
 Underfull \hbox (badness 4995) in paragraph at lines 9--10
 \OT1/ptm/m/it/12 Tool Box\OT1/ptm/m/n/12 , Engineering Tool Box, []$\OT1/cmtt/m
 /n/12 www . engineeringtoolbox . com /
@@ -1805,12 +1791,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 n-[]d _
  []
 
-) (Works Cited/Bib v2.tex) [18
+) (Works Cited/Bib v2.tex) [16
 
 ] (Appendix/appdix Mod 1.tex
-(Appendix/./Raw Experimental Data Mod 1.tex [19
+(Appendix/./Raw Experimental Data Mod 1.tex [17
 
-] [20])) [21] (main.aux)
+] [18])) [19] (main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1822,11 +1808,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 ### simple group (level 1) entered at line 1 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 37428 strings out of 478868
- 826875 string characters out of 2865271
- 1404347 words of memory out of 3000000
- 54469 multiletter control sequences out of 15000+600000
- 456071 words of font info for 147 fonts, out of 8000000 for 9000
+ 37418 strings out of 478868
+ 826726 string characters out of 2865271
+ 1404303 words of memory out of 3000000
+ 54465 multiletter control sequences out of 15000+600000
+ 454442 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,18n,89p,1786b,2731s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/MikTek/fonts/enc/dvips/base/8r.enc}<C:/MikTek/fonts/type1/p
@@ -1841,9 +1827,9 @@ nts/cm/cmtt12.pfb><C:/MikTek/fonts/type1/urw/symbol/usyr.pfb><C:/MikTek/fonts/t
 ype1/urw/symbol/usyr.pfb><C:/MikTek/fonts/type1/urw/times/utmb8a.pfb><C:/MikTek
 /fonts/type1/urw/times/utmbi8a.pfb><C:/MikTek/fonts/type1/urw/times/utmr8a.pfb>
 <C:/MikTek/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (22 pages, 310346 bytes).
+Output written on main.pdf (20 pages, 302819 bytes).
 PDF statistics:
- 382 PDF objects out of 1000 (max. 8388607)
- 69 named destinations out of 1000 (max. 500000)
+ 345 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
  242 words of extra memory for PDF output out of 10000 (max. 10000000)
 
