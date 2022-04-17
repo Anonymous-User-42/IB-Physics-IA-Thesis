@@ -1,0 +1,46 @@
+
+
+\begin{tikzpicture}
+            \begin{axis}[
+%                title={\textit{Graph in relation to the \textbf{experimental} \& \textbf{simulation} values of \textbf{drag force} versus \textbf{temperature}}},
+                xlabel={\textbf{\textit{Temperature (in $\bm{^\circ}$C) [T]}}},
+                ylabel={\textbf{\textit{Drag Force (in $\bm{10^{3}}$ N) [$\bm{F_D}$]}}},
+                xmin=20, xmax=100,
+                ymin=2.65, ymax=2.95,
+                xtick={20,40,60,80,100},
+                ytick={2.65,2.70,2.75,2.80,2.85,2.9,2.95},
+                legend pos=north east,
+                ymajorgrids=true,
+                grid style=dashed,
+                legend entries={$F_D$ (\textit{Experimental}), $F_D$ (\textit{Simulation})}
+            ]
+            
+            \addplot+[
+                color=red,
+                mark=square,
+                ] plot[error bars/.cd, y dir=both, y explicit, x dir=both, x explicit]
+                coordinates {
+                (20,2.92405) +- (0.01,0.005)
+                (40,2.86387) +- (0.01,0.005)
+                (60,2.80554) +- (0.01,0.005)
+                (80,2.74613) +- (0.01,0.005)
+                (100,2.69634) +- (0.01,0.005)
+                };
+                
+            \addplot+[
+                color=blue,
+                mark=square,
+                ] plot[error bars/.cd, y dir=both, y explicit, x dir=both, x explicit]
+                coordinates {
+                (20,2.92845) +- (0.01,0.005)
+                (40,2.86564) +- (0.01,0.005)
+                (60,2.80546) +- (0.01,0.005)
+                (80,2.74776) +- (0.01,0.005)
+                (100,2.69239) +- (0.01,0.005)
+                };
+                                
+                
+            \end{axis}
+            \caption{\textit{Graph in relation to the \textbf{experimental} \& \textbf{simulation} values of \textbf{drag force} versus \textbf{temperature}}}
+        \end{tikzpicture}
+        
